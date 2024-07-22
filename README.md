@@ -1,1 +1,1 @@
-Creating a Virtual Machine in Azure with Terraform
+Creating a Virtual Machine (VM) in Azure using Terraform involves defining and deploying resources through Infrastructure as Code (IaC). Below are the steps and a sample Terraform configuration to create a VM with the specified parameters:
